@@ -1,0 +1,23 @@
+{
+  "name": "Creamy - Sistema de Estoque e Vendas",
+  "short_name": "Creamy",
+  "description": "Sistema de controle de estoque, vendas, custos e lucros da Creamy.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7d6e8",
+  "theme_color": "#e95fa5",
+  "orientation": "portrait-primary",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
